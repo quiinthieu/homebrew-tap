@@ -1,9 +1,8 @@
 class Niwa < Formula
   desc "Cozy idle garden for your terminal and menu bar"
   homepage "https://github.com/quiinthieu/niwa"
-  url "https://github.com/quiinthieu/niwa/archive/eff016f1ec42095d8a539b6959e7cbf855aa17bb.tar.gz"
-  version "0.1.0"
-  sha256 "1c9e845623a0bceaa6b1a0567439137f5372d33f2dfebd9260ce571c1d64e545"
+  url "https://github.com/quiinthieu/niwa/archive/refs/tags/v1.0.0.tar.gz"
+  sha256 "8b4e8f106037c9778ba530e669c826886234104fd034d96e7e8d62e9693ffa7e"
   license any_of: ["MIT", "Apache-2.0"]
   head "https://github.com/quiinthieu/niwa.git", branch: "main"
 
